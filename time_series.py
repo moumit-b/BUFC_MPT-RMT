@@ -3,7 +3,7 @@ import pandas as pd
 import yfinance as yf
 
 
-stock_symbol = "AAPL"  
+stock_symbol = "AAPL" #for example
 start_date = "2019-01-01"
 end_date = "2024-01-01"
 
